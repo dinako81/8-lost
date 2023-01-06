@@ -1,0 +1,33 @@
+.container {
+    display: inline-block;
+}
+
+.left-column {
+    display: inline;
+    width: 30%;
+    background-color: #FDFDFD;
+}
+
+.main-menu {
+    
+}
+
+.link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #939393;
+
+}
+
+link:first-child {
+    color: #60AAA1;
+}
+
+.socials {
+
+}
+
+.rigth-column {
+    width: 70%;
+
+}
