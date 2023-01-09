@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: _
+Site published at: https://dinako81.github.io/8-lost/
 
 Design: [Lost](https://cdn.dribbble.com/users/1343667/screenshots/3476313/kecil.png?compress=1&resize=800x600&vertical=top)
 
