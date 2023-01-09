@@ -8,7 +8,7 @@ body {
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);  
-    margin-top: 2em;
+    margin-top: 5%;
 }
 
 .left-column {
@@ -23,7 +23,7 @@ body {
     font-size: 10px;
     text-decoration: none;
     line-height: 2em;
-    margin-top: 100px;
+    margin-top: 80px;
     width: 60px;  
     margin-left: 20px;  
 }
@@ -48,15 +48,17 @@ body {
 
 }
 .socials {
-    margin-top: 202px;
+    margin-top: 223px;
+    margin-bottom: 18px;
     margin-left: 20px;  
+    padding: 0px;
 }
 
-.icon {
-    margin-right: 1em;
-    font-size: 12px;
+.socials > .icon {
+    margin-right: 15px;
+    font-size: 10px;
     line-height: 2em;
-    color: black;
+    color: #777;
     text-decoration: none;  
 }
 
