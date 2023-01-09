@@ -3,21 +3,17 @@ body {
     background-color: #EEEEEE;
     margin: 0;
 }
-
 .container {
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);  
     margin-top: 5%;
 }
-
 .left-column {
     display: inline-block;
     width: 20%;
     background-color: #FDFDFD;
-
 }
-
 .main-menu {    
     color: #000;
     font-size: 10px;
@@ -27,7 +23,6 @@ body {
     width: 60px;  
     margin-left: 20px;  
 }
-
 .link {
     text-decoration: none;
     text-transform: uppercase;
@@ -35,7 +30,6 @@ body {
     color: #939393;
     
 }
-
 .link:first-child {
     color: #84BCB4
 }
@@ -45,7 +39,6 @@ body {
     height: 40px;
     width: 60px;
     object-fit: contain;
-
 }
 .socials {
     margin-top: 223px;
@@ -53,7 +46,6 @@ body {
     margin-left: 20px;  
     padding: 0px;
 }
-
 .socials > .icon {
     margin-right: 15px;
     font-size: 10px;
@@ -61,7 +53,6 @@ body {
     color: #777;
     text-decoration: none;  
 }
-
 .icon:nth-of-type(2) {
     color: #84BCB4;
 }
@@ -69,8 +60,6 @@ body {
     width: 80%;
     float: right;
 }
-
 .rigth-column > img {
     width: 100%;
-    
 }
