@@ -1,19 +1,21 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #FDFDFD;
+    background-color: #EEEEEE;
+    margin: 0;
 }
 
 .container {
     display: inline-block;
     width: 800px;
     margin-left: calc(50% - 400px);  
-    margin-top: 4em;
+    margin-top: 2em;
 }
 
 .left-column {
     display: inline-block;
     width: 20%;
     background-color: #FDFDFD;
+
 }
 
 .main-menu {    
@@ -22,7 +24,8 @@ body {
     text-decoration: none;
     line-height: 2em;
     margin-top: 100px;
-    width: 60px;      
+    width: 60px;  
+    margin-left: 20px;  
 }
 
 .link {
@@ -36,9 +39,17 @@ body {
 .link:first-child {
     color: #84BCB4
 }
+.logo {
+    margin-left: 20px; 
+    line-height: 2em; 
+    height: 40px;
+    width: 60px;
+    object-fit: contain;
 
+}
 .socials {
-    margin-top: 240px;
+    margin-top: 202px;
+    margin-left: 20px;  
 }
 
 .icon {
